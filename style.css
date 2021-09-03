@@ -32,7 +32,7 @@ body {
 #userName {
     color: var(--accentColor);
     font-size: 1rem;
-    font-weight: bold;
+    font-weight: italic;
     line-height: 1.25;
     display: block;
     font-family: var(--font);
