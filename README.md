@@ -10,7 +10,7 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/JohnEmerson1406/myanimelist-profile?color=%234caf50">
   
-  <a href="https://github.com/JohnEmerson1406/linktree/commits/master">
+  <a href="https://github.com/JohnEmerson1406/linktree/commits/patch-1">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JohnEmerson1406/linktree?color=%234caf50">
   </a>
 </p>
